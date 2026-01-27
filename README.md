@@ -1,6 +1,9 @@
 # OCHEX LEARN JAVASCRIPT 📚
 
-App file name is: application-863207a0-fa39-4c27-80d3-d8556dcc288a.apk, you can download it direct
+## 📥 Download APK
+
+👉 [Download OCHEX Learn JavaScript APK](https://github.com/CoderWithCuriosity/learning-javascript-app-tutor/blob/main/application-863207a0-fa39-4c27-80d3-d8556dcc288a.apk)
+
 
 A complete, offline JavaScript learning app built with Expo React Native. Master JavaScript from basics to advanced concepts through interactive lessons and quizzes - no internet required!
 
@@ -219,26 +222,6 @@ Edit `app/_layout.tsx` - the `AppHeader` component controls the navigation heade
 - Clear Expo cache: `expo start -c`
 - Update Expo: `npm install expo@latest`
 
-## 📈 Roadmap
-
-### Planned Features
-
-- [ ] Dark mode support
-- [ ] Achievement badges
-- [ ] Code playground for practice
-- [ ] Social sharing of progress
-- [ ] Lesson bookmarks
-- [ ] Search functionality
-- [ ] Offline code examples
-
-### Future Content Updates
-
-- [ ] More advanced React patterns
-- [ ] Node.js and backend JavaScript
-- [ ] Testing frameworks (Jest, Cypress)
-- [ ] State management (Redux, Context)
-- [ ] Performance optimization techniques
-
 ## 🤝 Contributing
 
 Want to improve OCHEX LEARN JAVASCRIPT? Awesome! Here's how:
@@ -272,7 +255,7 @@ Want to improve OCHEX LEARN JAVASCRIPT? Awesome! Here's how:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed has no license yet.
 
 ## 🙏 Acknowledgments
 
@@ -285,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Having issues? Here's how to get help:
 
-1. **Check the [Issues](https://github.com/yourusername/ochex-learn-javascript/issues)** page
+1. **Check the [Issues](https://github.com/CoderWithCuriosity/learning-javascript-app-tutor/issues)** page
 2. **Search for similar problems**
 3. **Create a new issue** with:
    - A clear description of the problem
@@ -313,5 +296,6 @@ _"The only way to learn a new programming language is by writing programs in it.
  #   l e a r n i n g - j a v a s c r i p t - a p p - t u t o r 
  
  
-#   l e a r n i n g - j a v a s c r i p t - a p p - t u t o r  
+#   l e a r n i n g - j a v a s c r i p t - a p p - t u t o r 
+ 
  
