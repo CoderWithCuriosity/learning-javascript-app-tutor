@@ -2,7 +2,6 @@
 
 ## 📥 Download APK
 
-👉 [Download OCHEX Learn JavaScript APK](https://github.com/CoderWithCuriosity/learning-javascript-app-tutor/blob/main/application-863207a0-fa39-4c27-80d3-d8556dcc288a.apk)
 
 
 A complete, offline JavaScript learning app built with Expo React Native. Master JavaScript from basics to advanced concepts through interactive lessons and quizzes - no internet required!
